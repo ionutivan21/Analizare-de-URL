@@ -29,3 +29,12 @@ introduci URL suspect si el automat iti va spune dacă e suspect de phishing
 
 
 
+
+
+
+
+⚠️ Acest tool este strict educațional.
+Autorul nu își asumă responsabilitatea pentru folosire ilegală.
+
+
+
