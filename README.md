@@ -1,2 +1,11 @@
 # Analizare-de-URL
-Asa analizezi url împotriva phishing si hack cam
+Asa analizezi url împotriva phishing si hack cam 
+
+
+
+instalare pachete
+
+apt update && apt upgrade
+
+
+
