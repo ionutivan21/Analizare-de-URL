@@ -10,14 +10,14 @@ apt update && apt upgrade
 
 
 
-instalare tool 
+instalare 
 
 
+git clone https://github.com/ionutivan21/Analizare-de-URL.git
 
-git clone https://github.com/ionutivan21/sadboy.git
-cd sadboy
-chmod +x sadboy.py
-./sadboy.py
+cd Analizare-de-URL
+
+python sadboy.py
 
 
 
